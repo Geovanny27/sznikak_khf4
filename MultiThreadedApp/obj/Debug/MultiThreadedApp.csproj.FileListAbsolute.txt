@@ -1,0 +1,19 @@
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\bin\Debug\MultiThreadedApp.exe.config
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\bin\Debug\MultiThreadedApp.exe
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\bin\Debug\MultiThreadedApp.pdb
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.csprojAssemblyReference.cache
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.Form1.resources
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.Properties.Resources.resources
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.csproj.GenerateResource.cache
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.exe
+C:\Users\geova\OneDrive\Egyetem\Sznikák\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.pdb
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\bin\Debug\MultiThreadedApp.exe.config
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\bin\Debug\MultiThreadedApp.exe
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\bin\Debug\MultiThreadedApp.pdb
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.csprojAssemblyReference.cache
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.Form1.resources
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.Properties.Resources.resources
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.csproj.GenerateResource.cache
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.csproj.CoreCompileInputs.cache
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.exe
+C:\Users\geova\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Egyetem\4.félév\Sznikák\házik\hf4.zip (Unzipped Files)\Feladatok\MultiThreadedApp\obj\Debug\MultiThreadedApp.pdb
